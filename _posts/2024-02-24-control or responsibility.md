@@ -7,8 +7,11 @@ author: afuerstenau
 tags: [productivity]
 summary: You are responsible until the work is done and to not loose track of these delegations you use a waiting_for list or tag or whatever else your listmanager is capable of.
 ---
-At least you shouldn't try to delegate responsibility fully.
-You will hand over the full control over a taks to someone else but you will keep the responsibility, at least a part of it.
+;tldr
+You are responsible until the work is done and to not loose track of these delegations you use a waiting_for list or tag or whatever else your listmanager is capable of.
+
+You cannot delegate responsibility or at least you shouldn't try to delegate responsibility fully.
+What will happen instead is that you hand over the full control over a thing to someone else but you will keep the responsibility, at least a part of it.
 
 A story:
 Imagine your boss gives you some work to do. But you cannot do it all by yourself. You need some help from a colleague. So, you finish your work and then ask John to do the final 5% or so.
