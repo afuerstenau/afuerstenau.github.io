@@ -8,6 +8,7 @@ tags: []
 summary: A or B
 ---
 
-There are all kinds of questions on the internet being asked. A specific kind, which happens fairly often is a vaiety of what's better, A or B?
-Which is the best programming language to learn in 2024? Which framework is better, vue or angular? Which town is nicer, Schwerte or New York City?
-The basic problem with all of these questions is that they cannot be answered. There is no absolute best, it all depends on the context. 
+There are all kinds of questions on the internet being asked. A specific kind of question, which happens fairly often is a vaiety of "What's better? A, B, C or D?" "What is the best x?"
+Is it better to focus on my eating- or sports-habits? What's the best food?
+
+The basic problem with all of these questions is, that you don't know the context. Some askers provide no context at all which is extremely ridiculus. How could anybody else guess what might be the best thing for you under your circumstances at this point in time?
