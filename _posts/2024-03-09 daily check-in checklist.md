@@ -2,7 +2,7 @@
 layout: post
 title: My daily check-in
 date: 2024-03-09 21:01
-category: 
+category: productivity
 author: 
 tags: [things3, gtd, weeklyreview]
 summary: My daily checkin routine for the last couple of weeks
