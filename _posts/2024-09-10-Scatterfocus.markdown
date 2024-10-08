@@ -19,7 +19,7 @@ I set a timer to 15 minutes for one session. I use my meditaion app "Happier" fo
 
 My go-to position is to lay on the floor and put my legs on the couch.
 
-<div align="center">![Me in my go-to scatterfocus position](/assets/scatterfocusposition.png)</div>
+![Me in my go-to scatterfocus position](/assets/scatterfocusposition.png)
 
 One reason for this position is, that it's kind of uncomfortable for me to read in this position. That's good. I want to make it hard for my lazy self to get distracted too easily. On the other hand I keep my phone somewhat close to collect any ideas or todos that come up.
 
