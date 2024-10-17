@@ -5,3 +5,4 @@
 layout: home
 ---
 <a rel="me" href="https://troet.cafe/@afuerstenau"></a>
+<meta name="fediverse:creator" content="@afuerstenau@troet.cafe" />
