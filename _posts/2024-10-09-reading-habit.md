@@ -35,4 +35,4 @@ Layer four is the “gems,” the most rare and illuminating finds that I’ve d
 
 I applied the last three (7. alternate new old, 8. capture notes in a new apple note and 9. Building a second brain) during the last year.
 
-If you want to know what I am reading at the moment or what I have read, you can find my goodreads profile here: https://www.goodreads.com/user/show/20905653-alex-f-rstenau
+If you want to know what I am reading at the moment or what I have read, you can find my goodreads profile here: <https://www.goodreads.com/user/show/20905653-alex-f-rstenau>
