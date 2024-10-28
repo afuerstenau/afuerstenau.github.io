@@ -14,6 +14,7 @@ After breakfast I would continue working until around twelve.
 To get the most out of the day for my son and me, we had a long lunch break (2-3 hours). We would either drive to Neustrelitz to have some lunch or  we would eat something in our apartment.
 I did cook two fairly simple meals during the week in our small kitchen.
 ![Image of the kitchen in the apartment](/assets/workaction_kitchen.png)
+
 While cooking I use the app crouton <https://crouton.app/> on my iPad for the recipes.
 
 After lunch I would continue working until around six or so.
