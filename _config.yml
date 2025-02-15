@@ -28,7 +28,7 @@ github_username:  afuerstenau
 # youtube_username: afuerstenau
 mastodon:
 - username: afuerstenau
-  instance: troet.cafe
+  instance: norden.social
 
 # Build settings
 theme: minima

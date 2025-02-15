@@ -4,5 +4,5 @@
 
 layout: home
 ---
-<a rel="me" href="https://troet.cafe/@afuerstenau"></a>
-<meta name="fediverse:creator" content="@afuerstenau@troet.cafe" />
+<a rel="me" href="https://norden.social/@afuerstenau"></a>
+<meta name="fediverse:creator" content="@afuerstenau@norden.social">
